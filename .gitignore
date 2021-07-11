@@ -1,3 +1,13 @@
+# Ignore all
 *
-!*.cpp
-!*.gitignore
+
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+*.exe
+*.bin
+
