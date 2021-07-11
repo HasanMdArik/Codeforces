@@ -8,6 +8,7 @@
 # Unignore all dirs
 !*/
 
+# Ignore binary and exe files
 *.exe
 *.bin
 
